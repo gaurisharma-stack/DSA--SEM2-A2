@@ -1,0 +1,47 @@
+'''~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LDST- Linear Data Structures Toolkit
+Course: ETCCDS202 - Data Structures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Data Structures (ETCCDS202)
+
+Name of the School:	School of Engineering & Technology 
+Program: B.Tech CSE (AI and ML) 
+Course Title: Data Structures 
+Course Code: ETCCDS202 
+Unit Title: Foundations & Algorithmic Analysis 
+Student Name: GAURI SHARMA
+Roll Number: 2501730108
+Section: A 
+Semester: 2 
+Batch: 2025-26 
+Submitted To: Mrs. Neetu Chauhan 
+Submission Date: 
+'''
+
+--- TASK 1: DYNAMIC ARRAY ---
+[Resize]: 2 -> 4
+[Resize]: 4 -> 8
+[Resize]: 8 -> 16
+Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] (Size: 10, Cap: 16)
+Popped: [10, 9, 8]
+
+--- TASK 2A: SINGLY LINKED LIST ---
+After inserts:
+3 -> 3
+After deleting 3:
+3
+
+--- TASK 2B: DOUBLY LINKED LIST ---
+After insert 25 after 20:
+10 <-> 20 <-> 25 <-> 30
+After deleting position 1 (20):
+10 <-> 25 <-> 30
+
+--- TASK 3: STACK & QUEUE ---
+Stack Pop: B | Peek: A
+Queue Dequeue: X | Next: Y
+
+--- TASK 4: BALANCED PARENTHESES ---
+'([])' -> True
+'([)]' -> False
