@@ -9,7 +9,7 @@ Name of the School:	School of Engineering & Technology
 Program: B.Tech CSE (AI and ML) 
 Course Title: Data Structures 
 Course Code: ETCCDS202 
-Unit Title: Foundations & Algorithmic Analysis 
+Unit Title: Linear Data Structures Toolkit (LDST) 
 Student Name: GAURI SHARMA
 Roll Number: 2501730108
 Section: A 
